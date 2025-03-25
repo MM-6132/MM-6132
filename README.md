@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martinez Mickael</h1>
-<h3 align="center">Industry 4.0 engineer</h3>
+<h3 align="center">FullStack / AI Engineer </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mm-6132" alt="mm-6132" /></a> </p>
 
